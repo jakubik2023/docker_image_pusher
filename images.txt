@@ -1,1 +1,1 @@
-tanheyii/secgpt-mini:latest
+lobehub/lobe-chat
