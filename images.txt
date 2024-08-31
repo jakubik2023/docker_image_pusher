@@ -1,1 +1,1 @@
-docker.m.daocloud.io/wiseflow:latest
+taprosoft/kotaemon:v1.0
