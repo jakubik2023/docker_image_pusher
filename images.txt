@@ -1,1 +1,4 @@
-taprosoft/kotaemon:v1.0
+pgvector/pgvector:0.7.0-pg15
+mongo:4.4.29
+ghcr.io/labring/fastgpt-sandbox:latest
+ghcr.io/labring/fastgpt:v4.8.9
