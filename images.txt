@@ -1,1 +1,1 @@
-deepface-react-app
+node:14-alpine
