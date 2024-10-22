@@ -1,1 +1,1 @@
-xprobe/xinference:latest
+deepface-react-app
