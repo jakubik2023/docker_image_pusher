@@ -1,1 +1,1 @@
-byaidu/pdf2zh
+athomasson2/ebook2audiobookxtts:huggingface
