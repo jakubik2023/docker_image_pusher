@@ -1,1 +1,1 @@
-corentinth/it-tools:latest
+soulter/astrbot:latest
