@@ -1,1 +1,1 @@
-soulter/astrbot:latest
+linuxserver/code-server:4.96.4
