@@ -1,1 +1,2 @@
-linuxserver/code-server:4.96.4
+pgvector/pgvector:pg17
+supersonicbi/supersonic:latest
