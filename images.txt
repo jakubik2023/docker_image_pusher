@@ -1,2 +1,10 @@
-pgvector/pgvector:pg17
-supersonicbi/supersonic:latest
+redis:6-alpine
+semitechnologies/weaviate:1.19.0
+nginx:latest
+postgres:15-alpine
+langgenius/dify-web:1.0.1
+langgenius/dify-api:1.0.1
+langgenius/dify-plugin-daemon:0.0.4-local
+langgenius/dify-api:1.0.1
+langgenius/dify-sandbox:0.2.10
+ubuntu/squid:latest
