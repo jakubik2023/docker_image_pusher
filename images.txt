@@ -1,1 +1,1 @@
-falkordb/falkordb
+mineru:latest
