@@ -1,1 +1,1 @@
-mineru:latest
+gpustack/gpustack
