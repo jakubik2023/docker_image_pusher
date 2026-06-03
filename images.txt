@@ -1,1 +1,2 @@
-gpustack/gpustack
+zhuhai123/stockfish-stockfish:latest
+zhuhai123/stockfish-mirofish:latest
